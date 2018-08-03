@@ -13,6 +13,3 @@ bin
 .settings
 logs
 .log
-build.sbt
-project/
-src/
